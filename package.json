@@ -1,0 +1,19 @@
+{
+  "name": "learn-serverless-api",
+  "version": "1.0.0",
+  "description": "Learning how to build API with serverless and aws-lambda.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zugarzeeker/learn-serverless-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zugarzeeker/learn-serverless-api/issues"
+  },
+  "homepage": "https://github.com/zugarzeeker/learn-serverless-api#readme"
+}
